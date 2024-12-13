@@ -1,0 +1,4 @@
+*.env
+*_NovoBolsaFamilia.csv
+*.parquet
+votacao_2022_BR.csv
