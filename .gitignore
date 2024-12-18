@@ -2,3 +2,4 @@
 *_NovoBolsaFamilia.csv
 *.parquet
 votacao_2022_BR.csv
+__pycache__
